@@ -2,7 +2,7 @@
 ---
 - 💻 **Coding for Fun** 
 - 🎨 **Clean Design Obsessed**
-- 🌱 Learning: C# Source Generators, Web servers, LSP, Svelte.
+- 🌱 **Learning**: C# Source Generators, Web servers, LSP, Svelte.
 - 🪣 **Learning Bucket List**: Golang, ScyllaDB, Celery, React.
 - ✨ **Obsessed over AI/ML**
 
