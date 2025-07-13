@@ -1,7 +1,5 @@
 ## Hey there 👋
 ---
-- 💻 **Coding for Fun** 
-- 🎨 **Clean Design Obsessed**
 - 🌱 **Learning**: C# Source Generators, Web servers, LSP, Svelte.
 - 🪣 **Learning Bucket List**: Golang, ScyllaDB, Celery, React.
 - ✨ **Obsessed over AI/ML**
@@ -18,8 +16,6 @@
 
 #### **DevOps & Tools**
 - `🐳 Docker` `🕹️ Git` `💻 JetBrains IDEs`
-
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Kuba_csproj&theme=radical)
 
 
 
