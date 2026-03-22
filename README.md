@@ -1,13 +1,5 @@
 ## Hey there 👋
 ---
-- 🌱 **Learning**: C# Source Generators, Web servers, LSP, Svelte.
-- 🪣 **Learning Bucket List**: Golang, ScyllaDB, Celery, React.
-- ✨ **Obsessed over AI/ML**
-
-### 🛠️ My Toolbox
-
-#### **Languages**
-- `🟦 C#` `💻 JavaScript`/`💻 TypeScript` `🐍 Python` `🛢 SQL`
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba-csproj&layout=compact&theme=radical)
 
